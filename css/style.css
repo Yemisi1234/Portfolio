@@ -1033,6 +1033,12 @@ svg.tea {
     opacity: 1;
   }
 }
+@media (max-width: 790px) {
+  /*===My work===*/
+  .work__item {
+    margin: 0 auto 20px auto;
+  }
+}
 @media (max-width: 768px) {
   /*===Header===*/
   .header__burger {
@@ -1137,11 +1143,6 @@ svg.tea {
   .contact__form {
     width: 100%;
   }
-
-  /*===Portfolio===*/
-  .portfolio__item {
-    margin: 0 auto 20px;
-  }
 }
 @media (max-width: 616px) {
   /*===Hero===*/
@@ -1167,7 +1168,7 @@ svg.tea {
 }
 @media (max-width: 375px) {
   /*===Portfolio===*/
-  .portfolio__img {
+  .work__img {
     width: 280px;
     height: 180px;
   }

@@ -793,12 +793,12 @@ svg.tea{
 }
 /*======================Adaptation======================*/
 @media (max-width: 829px) {
-	/*===Skills===*/
-	.skills {
-		.progress {
-			justify-content: center;
-		}
+/*===Skills===*/
+.skills {
+	.progress {
+		justify-content: center;
 	}
+}
 }
 @media (min-width: 768px) {
 /*===Header===*/
@@ -1034,6 +1034,14 @@ svg.tea{
 	}
 }
 }
+@media (max-width: 790px) {
+/*===My work===*/
+.work{
+	&__item{
+		margin: 0 auto 20px auto;
+	}
+}
+}
 @media (max-width: 768px) {
 /*===Header===*/
 .header{
@@ -1145,12 +1153,6 @@ svg.tea{
 		width: 100%;
 	}
 }
-/*===Portfolio===*/
-.portfolio{
-	&__item{
-		margin: 0 auto 20px;
-	}
-}
 }
 @media (max-width:616px) {
 /*===Hero===*/
@@ -1181,11 +1183,12 @@ svg.tea{
 }
 @media (max-width: 375px) {
 /*===Portfolio===*/
-.portfolio{
+.work{
 	&__img {
-	width: 280px;
-	height: 180px;
+		width: 280px;
+		height: 180px;
 	}
 }
+
 }
 
