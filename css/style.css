@@ -1107,6 +1107,9 @@ svg.tea {
     margin: 0;
     transition: color 0.3s ease 0s, background-color 0.3s ease 0s;
   }
+  .menu__link:hover {
+    color: #fff;
+  }
   .menu__link-active {
     color: #fff;
     background-color: #BF2C47;

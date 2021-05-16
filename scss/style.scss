@@ -1111,6 +1111,9 @@ svg.tea{
 		padding: 10px 15px;
 		margin: 0;
 		transition: color 0.3s ease 0s,background-color 0.3s ease 0s;
+		&:hover{
+			color: #fff;
+		}
 	}
 	&__link-active{
 		color: #fff;
