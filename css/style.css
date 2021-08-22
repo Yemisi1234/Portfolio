@@ -572,6 +572,7 @@ svg.tea {
   position: relative;
   text-align: center;
   margin: 0px 30px 30px 0px;
+  cursor: pointer;
 }
 .work__item:nth-child(1) .work__body {
   background-color: rgba(151, 103, 169, 0.9);
@@ -587,6 +588,12 @@ svg.tea {
 }
 .work__item:nth-child(5) .work__body {
   background-color: rgba(245, 56, 56, 0.9);
+}
+.work__item:nth-child(6) .work__body {
+  background-color: rgba(18, 35, 46, 0.9);
+}
+.work__item:nth-child(6) .work__template-img {
+  width: 80%;
 }
 .work__img {
   width: 350px;
