@@ -6,13 +6,13 @@ This project is currently done. Users can see information about me, my work, ski
 <p><a target="_blank" rel="noopener noreferrer" href="src\img\markdown\prevue.gif"><img src="src\img\markdown\prevue.gif" alt="prevue" style="max-width: 100%;"></a></p>
 
 ## Installation and Setup Instructions
-<p><a target="_blank" rel="noopener noreferrer" href="src\img\markdown\prevue.gif"><img src="src\img\markdown\how-download.gif" alt="how download" style="max-width: 100%;"></a></p>
+Open [https://avalanche322.github.io/Personal-Portfolio/](https://avalanche322.github.io/Personal-Portfolio/) to view it in the browser.
 
 Clone down this repository. You will need `node`, `npm` installed globally on your machine.
 
 Installation:
 
-![how download](src\img\markdown\how-download.gif)
+<p><a target="_blank" rel="noopener noreferrer" href="src\img\markdown\prevue.gif"><img src="src\img\markdown\how-download.gif" alt="how download" style="max-width: 100%;"></a></p>
 
 Clone repository
 
