@@ -12,7 +12,7 @@ Clone down this repository. You will need `node`, `npm` installed globally on yo
 
 Installation:
 
-<p><a target="_blank" rel="noopener noreferrer" href="src\img\markdown\prevue.gif"><img src="src\img\markdown\how-download.gif" alt="how download" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="src\img\markdown\how-download.gif"><img src="src\img\markdown\how-download.gif" alt="how download" style="max-width: 100%;"></a></p>
 
 Clone repository
 
