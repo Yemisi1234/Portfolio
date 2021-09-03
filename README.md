@@ -3,7 +3,7 @@ An website use GitPage for hosting, SCSS, HTML and JS.
 ## Project Status
 This project is currently done. Users can see information about me, my work, skills with great animation and contact me.
 ## Project Screen Shots
-![how download](src\img\markdown\prevue.gif)
+![prevue](src\img\markdown\prevue.gif)
 
 ## Installation and Setup Instructions
 Open [https://avalanche322.github.io/Personal-Portfolio/](https://avalanche322.github.io/Personal-Portfolio/) to view it in the browser.
