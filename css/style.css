@@ -622,11 +622,11 @@ svg.tea {
   opacity: 1;
   transition: opacity 0.5s ease 0s;
 }
-.work__body:hover .work__title, .work__body:hover .work__subtitle {
+.work__body:hover .work__item-title, .work__body:hover .work__item-subtitle {
   transform: translate(0, 0);
   opacity: 1;
 }
-.work__title {
+.work__item-title {
   font-size: 30px;
   font-weight: 500;
   margin: 0px 0px 10px 0px;
@@ -634,7 +634,7 @@ svg.tea {
   transition: transform 0.5s ease 0s, opacity 0.5s ease 0s;
   opacity: 0;
 }
-.work__subtitle {
+.work__item-subtitle {
   font-size: 20px;
   font-weight: 300;
   transform: translate(0, 100%);
@@ -662,17 +662,22 @@ svg.tea {
 .work__template-img img {
   width: 100%;
 }
-.work__link {
-  color: #fff;
-  display: inline-block;
+.work__template-links {
   width: 100%;
   padding: 20px 0px;
   background-color: #BF2C47;
+}
+.work__link {
+  color: #fff;
+  display: inline-block;
   transition: color 0.3s ease 0s;
 }
 .work__link:hover {
   transition: color 0.3s ease 0s;
   color: #1D2324;
+}
+.work__link:last-child {
+  margin-top: 5px;
 }
 .work__active {
   display: flex;
